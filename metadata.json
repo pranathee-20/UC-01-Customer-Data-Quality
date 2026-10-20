@@ -1,0 +1,6 @@
+{
+  "name": "UC-01 Customer Data Quality SaaS",
+  "description": "Module 1 - Project Foundation with React, FastAPI, Azure SQL, and Terraform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
